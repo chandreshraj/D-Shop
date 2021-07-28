@@ -1,0 +1,14 @@
+{
+  "exchange": {
+    "api": "https://v6.exchangerate-api.com/v6",
+    "all": "latest",
+    "convert": "pair"
+  },
+  "currency": {
+    "supported": [
+      "INR",
+      "USD"
+    ],
+    "default": "INR"
+  }
+}
